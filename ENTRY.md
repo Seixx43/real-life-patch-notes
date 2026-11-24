@@ -1,0 +1,1 @@
+v1.9.3: fixed a bug where yawning in a meeting triggered a chain reaction in all nearby humans. Yawns are now rate-limited.
